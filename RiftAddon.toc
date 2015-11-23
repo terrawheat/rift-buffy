@@ -1,0 +1,16 @@
+Identifier = "Buffy"
+Name = {
+    English = "Buffy"
+}
+NameShort = "Buffy"
+Description = {
+    English = "Allows a bard to have a handy notification of their song status."
+}
+Author = "Terrawheat"
+Website = "http://github.com/terrawheat/rift-buffy"
+Version = "1.0.0"
+Email = "terrawheat@gmail.com"
+Environment = "3.3"
+RunOnStartup = {
+  "buffy.lua",
+}
